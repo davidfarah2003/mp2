@@ -26,7 +26,6 @@ public class Play {
 	 * @param args (Array of String): ignored
 	 */
 	public static void main(String[] args) {
-
 		// Define cascading file system
 		final FileSystem fileSystem = new ResourceFileSystem(DefaultFileSystem.INSTANCE);
 
